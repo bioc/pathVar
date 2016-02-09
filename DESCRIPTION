@@ -1,10 +1,9 @@
 Package: pathVar
 Type: Package
-Title: Methods to Find Pathways with Significantly Different
-        Variability
-Version: 1.0.0
-Date: 2015-02-18
-Author: Jessica Mar, Laurence de torrente, Samuel Zimmerman
+Title: Methods to Find Pathways with Significantly Different Variability
+Version: 1.0.1
+Date: 2016-02-09
+Author: Laurence de Torrente, Samuel Zimmerman, Jessica Mar
 Maintainer: Samuel Zimmerman <sezimmer@einstein.yu.edu>
 Description: This package contains the functions to find the pathways
         that have significantly different variability than a reference
